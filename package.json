@@ -1,0 +1,27 @@
+{
+  "name": "be.lucie.mypackquai",
+  "version": "0.0.1",
+  "displayName": "Quai 10 Pack lucie",
+  "description": "This is my space in the Quai10 Nid Street AR project",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/EloiStree/HelloGitForUnity3D/issues/32",
+  "changelogUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "licensesUrl": "https://en.wikipedia.org/wiki/Beerware",
+  "dependencies": {
+    "com.unity.inputsystem": "1.7.0",
+    "com.unity.probuilder": "5.2.3"
+  },
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "Example d'utilisation de l'outil.",
+      "path": "Scene/Demo"
+    }
+  ],
+  "author": {
+    "name": "Lucie Serena",
+    "email": "lucieserena1030@gmail.com",
+    "url": "github.com/luciessrn"
+  }
+}
